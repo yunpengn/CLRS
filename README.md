@@ -4,7 +4,8 @@ This repository stores some of my notes when reading the famous book "_Introduct
 
 S/N | Chapter Name | Notes | Exercises
 --- | ------------ | ----- | ---------
-1 | The Role of Algorithms in Computing | [docs/01.md] | [docs/01.md]
+1 | The Role of Algorithms in Computing | [Notes](docs/01.md) | [Exercises](docs/01.md)
+2 | Getting Started | [Notes](docs/01.md) | [Exercises](docs/01.md)
 
 ## Licence
 
